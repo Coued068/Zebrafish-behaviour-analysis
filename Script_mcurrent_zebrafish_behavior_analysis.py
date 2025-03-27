@@ -16,7 +16,7 @@ plt.rcParams['font.family'] = 'sans-serif'
 plt.rcParams['font.sans-serif'] = ['Arial', 'DejaVu Sans']
 
 # À personnaliser par drogue
-drug_color = "#DC143C"  # 💡 Change cette ligne selon la condition testée
+drug_color = "#DC143C"  #  Cette ligne change en fonction de la couleur de la drogue
 
 # Fichier CSV
 file_path = r"C:\Users\Laris\OneDrive\Desktop\New_csvfiles_newdata\SKF\SKF-38393_3dpf.csv"
